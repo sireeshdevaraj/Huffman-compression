@@ -10,10 +10,11 @@ After concatenating the complete string, we will create a buffer from the string
 
 # Compression ratio
 
-```
+```sh
 test.txt -> File size: 20MB
 test.encoding.bin -> File size: 12MB
-Compression ration: 60%
+Compression ratio: 60%
 ```
 **Future Idea**
+
 I am planning to make a simple, complete web application for general use, and a process manager that listens to a folder and automatically compresses the files we put in it.
